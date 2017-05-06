@@ -1,10 +1,7 @@
 # Some demos related to the psychology replication crisis
 
 ### Author 
-Mark Andrews
-
-### Contact (Twitter) 
-[@xmjandrews](https://twitter.com/xmjandrews)
+Mark Andrews. Twitter: [@xmjandrews](https://twitter.com/xmjandrews)
 
 ## Demos
 
